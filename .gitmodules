@@ -1,0 +1,3 @@
+[submodule "oohlalam"]
+	path = oohlalam
+	url = https://git.heroku.com/oohlalam.git
